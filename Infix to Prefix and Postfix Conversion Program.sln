@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infix to Prefix and Postfix Conversion Program", "Infix to Prefix and Postfix Conversion Program.csproj", "{DF6C6076-014B-4544-8C5C-A5613F68EA8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF6C6076-014B-4544-8C5C-A5613F68EA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6C6076-014B-4544-8C5C-A5613F68EA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6C6076-014B-4544-8C5C-A5613F68EA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6C6076-014B-4544-8C5C-A5613F68EA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF546E40-DF93-48DC-9007-08D6990CA928}
+	EndGlobalSection
+EndGlobal
